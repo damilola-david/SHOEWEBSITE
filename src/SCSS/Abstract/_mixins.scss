@@ -1,0 +1,9 @@
+@mixin flex($horinzontal, $vertical){
+    display: flex;
+    justify-content: $horinzontal;
+    align-items: $vertical;
+}
+@mixin container($width){
+    width: $width;
+    margin: auto;
+}

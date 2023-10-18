@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/reza-zulmi-serif');
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Reza Zulmi Serif', sans-serif;
+                                                                                           
+   //box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+a, button{
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+body {
+    background: #e0dddd12;
+}
